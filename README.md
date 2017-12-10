@@ -12,3 +12,4 @@ return 0;
 
 
 \\dodatek
+\\krzysztof
